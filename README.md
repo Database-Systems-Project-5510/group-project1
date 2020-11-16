@@ -9,28 +9,28 @@
 * [Description of Future Work](#description-of-future-work)
 * [MySQL Dump](#mysql-dump)
 * [PowerPoint Video Link](#powerpoint-video-link)
+
+
+## Use Case for Rating Systems
+
+## Business Rules
+
+## EERD
+
+## MySQL Queries
+
+## Stored Procedure
+
+## Description of Future Work
+
+## MySQL Dump
+
+## PowerPoint Video Link
   
-  ## Use Case for Rating Systems
+
   
   
-  ## Business Rules
   
-  
-  ## EERD
-  
-  
-  ## MySQL Queries
-  
-  
-  ## Stored Procedure
-  
-  
-  ## Description of Future Work
-  
-  
-  ## MySQL Dump
-  
-  
-  ## PowerPoint Video Link
+
   
   
