@@ -1,5 +1,7 @@
 # Introduction
 
+Crave on Campus is an app that functions as an on-campus food delivery services who drivers are students of the university and whose customers are student, faculty and staff of the university. The app function acts similarly like GrubHub and DoorDash, however it’s campus controlled. Our team’s scope is to add a rating systems to the database, to control and track ratings of restaurants and delivery drivers. To start we will be using a database that is on loan from “Mavericks” from UNC Charlotte (Dhananjay Arora, AkshayBabu, Sumit Kawale and Prashant Madaan).  
+
 ## Index
 * [Use Case for Rating Systems](#use-case-for-rating-systems)
 * [Business Rules](#business-rules)
@@ -31,7 +33,7 @@ Here is some basic information on the existing database prototype:
 
 ## MySQL Queries
 
-
+![](images/Questions-Table%202.jpg)
 
 ## Stored Procedure
 
