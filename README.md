@@ -41,6 +41,8 @@ Student, Faculty and Staff can register as customers and log in to the Crave app
 
 ## Data Dictionary
 
+![](images/DataDictionary.png)
+
 ## MySQL Queries
 
 
