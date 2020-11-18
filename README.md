@@ -20,7 +20,7 @@ Crave on Campus is an app that functions as an on-campus food delivery services 
 
 Student, Faculty and Staff can register as customers and log in to the Crave app and search for restaurants. They can order food and choose the time of delivery. The customers may be interested in the rating of restaurants when choosing where to place their order. The order is assigned to the driver. After the order is complete, the customer is prompted to insert a one rating per order, although it is not required. The Administrator can log in to view ratings of restaurant and drivers.  
 
-
+![](images/UseCase.jpg)
 
 ## Business Rules
 
