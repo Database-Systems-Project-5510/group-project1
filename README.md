@@ -8,6 +8,7 @@ Crave on Campus is an app that functions as an on-campus food delivery services 
 * [Use Case for Rating Systems](#use-case-for-rating-systems)
 * [Business Rules](#business-rules)
 * [EERD](#eerd)
+* [Data Dictionary](#data-dictionary)
 * [MySQL Queries](#mysql-queries)
 * [Stored Procedure](#stored-procedure)
 * [Description of Future Work](#description-of-future-work)
@@ -37,6 +38,8 @@ Student, Faculty and Staff can register as customers and log in to the Crave app
 ## EERD
 
 ![](data/EERD.png)
+
+## Data Dictionary
 
 ## MySQL Queries
 
