@@ -50,8 +50,6 @@ Student, Faculty and Staff can register as customers and log in to the Crave app
 
 ## Description of Future Work
 
-## MySQL Dump
-
 ## PowerPoint Video Link
   
 
