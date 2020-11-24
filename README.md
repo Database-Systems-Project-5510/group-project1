@@ -77,7 +77,12 @@ This query joins the ratings table to a second table created from an inner join 
 
 ## Stored Procedure
 
+### Stored Procedure
 ![](images/Stored%20Procedure.png)
+
+
+### View
+![](images/View.png)
 
 ## Description of Future Work
 
