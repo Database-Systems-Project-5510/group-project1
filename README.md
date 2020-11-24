@@ -49,24 +49,31 @@ Students, Faculty and Staff can register as customers and log in to the Crave ap
 
 ## MySQL Queries
 
+### Top 5 Drivers
+This query pulls the top 5 drivers who have made the most deliveries over their carrier.
+![](images/Top%205%20Drivers.png)
 
-![](images/top%205%20drivers.png)
 
+### All Orders
+This query pulls all orders made by a specific customer over a specified week.
+![](images/All%20Orders.png)
  
-![](images/all%20orders.png)
- 
 
-![](images/all%20deliveries.png)
+### All Deliveries
+This query pulls delivery_id and time of all the deliveries made within the timeframe of 07/22/2001 and 07/29/2001. 
+![](images/All%20Deliveries.png)
 
 
- 
+### Average Restaurant Ratings
+This query joins the ratings table to a second table created from an inner join of the restaurant table and the order table. It includes the where clause to input the restaurant_ID of a specific restaurant.
 ![](images/AVG%20Restaurant%20Ratings.png)
 
-This query joins the ratings table to a second table created from an inner join of the restaurant table and the order table. It includes the where clause to input the restaurant_ID of a specific restaurant.
- 
+
+### Average Driver Ratings
+This query joins the ratings table to a second table created from an inner join of the driver table and the order table. It includes the where clause to input the driver_ID of a specific restaurant.
 ![](images/AVG%20Driver%20Ratings.png)
 
-This query joins the ratings table to a second table created from an inner join of the driver table and the order table. It includes the where clause to input the driver_ID of a specific restaurant.
+
 
 ## Stored Procedure
 
