@@ -12,7 +12,7 @@ Crave on Campus is an app that functions as an on-campus food delivery services 
 * [MySQL Queries](#mysql-queries)
 * [Stored Procedure](#stored-procedure)
 * [Description of Future Work](#description-of-future-work)
-* [PowerPoint Video Link](#powerpoint-video-link)
+* [Presentation Video Link](#presentation-video-link)
 
 
 ## Use Case for Rating Systems
@@ -49,7 +49,7 @@ Students, Faculty and Staff can register as customers and log in to the Crave ap
 
 ## Description of Future Work
 
-## PowerPoint Video Link
+## Presentation Video Link
   
 
   
