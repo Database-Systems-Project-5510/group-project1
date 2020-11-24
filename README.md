@@ -40,6 +40,11 @@ Students, Faculty and Staff can register as customers and log in to the Crave ap
 
 ## Data Dictionary
 
+![](images/delivery-and-driver-tables.png)
+![](images/faculty-and-location-tables.png)
+![](images/order-person-and-questions-tables.png)
+![](images/ratings-restaurant-and-staff-tables.png)
+![](images/student-and-vehicle-tables.png)
 
 
 ## MySQL Queries
