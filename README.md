@@ -40,7 +40,7 @@ Students, Faculty and Staff can register as customers and log in to the Crave ap
 
 ## Data Dictionary
 
-![](images/Schema%20Report%20for%20database_ campus_eats_fall2020.png)
+
 
 ## MySQL Queries
 
