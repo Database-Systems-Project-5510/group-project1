@@ -86,6 +86,9 @@ This query joins the ratings table to a second table created from an inner join 
 
 ## Description of Future Work
 
+### Scope of Future Work
+We are planning on implementing a loyalty program into the application. This will be an order tracking table that the application will be able to call upon to get a customer's number of orders and give them a $5 reward on their 5th order. This will be tracking the number of orders the customer receives and once the customer orders five times, a trigger will activate to revert their order count to zero.
+
 ## Presentation Video Link
   
 
