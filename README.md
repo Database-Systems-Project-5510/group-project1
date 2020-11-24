@@ -2,7 +2,7 @@
 
 Group Members: Victoria Armour, Adam Brinegar, Morgan Carlton, Mia Fowler, Bryan Ketchie, Sawyer Strickland, and Anna Trent
 
-Crave on Campus is an app that functions as an on-campus food delivery services who drivers are students of the university and whose customers are student, faculty and staff of the university. The app function acts similarly like GrubHub and DoorDash, however it’s campus controlled. Our team’s scope is to add a rating systems to the database, to control and track ratings of restaurants and delivery drivers. To start we will be using a database that is on loan from “Mavericks” from UNC Charlotte (Dhananjay Arora, AkshayBabu, Sumit Kawale and Prashant Madaan).  
+Crave on Campus is an app that functions as an on-campus food delivery service whose drivers are students of the university and whose customers are students, faculty, and staff. The app concept is like GrubHub and DoorDash, however it's campus controlled. Our team’s scope is to add a rating system for drivers and restaurants to the database, to add and review ratings of restaurants and delivery drivers. To start we will be using a database that is on loan from “Mavericks” from UNC Charlotte (Dhananjay Arora, AkshayBabu, Sumit Kawale and Prashant Madaan). Our team will be adding tables to the database where the new rating tables will be stored. Then our team will create queries to pull data from to review ratings.  
 
 ## Index
 * [Use Case for Rating Systems](#use-case-for-rating-systems)
@@ -40,7 +40,7 @@ Students, Faculty and Staff can register as customers and log in to the Crave ap
 
 ## Data Dictionary
 
-![](images/DataDictionary.png)
+[Data Dictionary Link](file:///Users/annatrent/Downloads/Data%20Dictionary.html)
 
 ## MySQL Queries
 
