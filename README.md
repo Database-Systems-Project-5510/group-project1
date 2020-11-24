@@ -40,7 +40,7 @@ Students, Faculty and Staff can register as customers and log in to the Crave ap
 
 ## Data Dictionary
 
-[Data Dictionary Link](file:///Users/annatrent/Downloads/Data%20Dictionary.html)
+
 
 ## MySQL Queries
 
