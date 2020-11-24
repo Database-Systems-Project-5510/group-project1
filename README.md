@@ -50,6 +50,24 @@ Students, Faculty and Staff can register as customers and log in to the Crave ap
 ## MySQL Queries
 
 
+![](images/top%205%20drivers.png)
+
+ 
+![](images/all%20orders.png)
+ 
+
+![](images/all%20deliveries.png)
+
+
+ 
+![](images/AVG%20Restaurant%20Ratings.png)
+
+This query joins the ratings table to a second table created from an inner join of the restaurant table and the order table. It includes the where clause to input the restaurant_ID of a specific restaurant.
+ 
+![](images/AVG%20Driver%20Ratings.png)
+
+This query joins the ratings table to a second table created from an inner join of the driver table and the order table. It includes the where clause to input the driver_ID of a specific restaurant.
+
 ## Stored Procedure
 
 ## Description of Future Work
