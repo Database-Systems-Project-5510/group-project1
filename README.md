@@ -92,7 +92,7 @@ We are planning on implementing a loyalty program into the application. This wil
 ## Presentation Video Link
   
 
-  
+[Link to Presentation](https://youtu.be/vaCPq81ySqk) 
   
   
 
